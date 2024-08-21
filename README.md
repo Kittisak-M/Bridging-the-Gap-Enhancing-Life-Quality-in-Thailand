@@ -65,15 +65,3 @@ Based on our findings, we will propose specific recommendations to address the w
 
 ## Conclusion
 
-
-## Future Work
-
-- Further data collection and analysis to refine our understanding of the wealth gap.
-- Implementation and evaluation of proposed recommendations.
-- Long-term monitoring of socioeconomic indicators to assess the effectiveness of interventions.
-- Collaboration with policymakers, researchers, and community stakeholders for sustained impact.
-
-## Contributing
-
-W
-
