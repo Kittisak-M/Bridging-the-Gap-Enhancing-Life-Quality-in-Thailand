@@ -1,4 +1,4 @@
-# Bridging the Gap: Enhancing Life Quality in Thailand
+# Does democracy make life quality better?
 
 ## Project Overview
 
