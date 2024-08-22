@@ -1,4 +1,4 @@
-# Does democracy make life quality better?
+# Does democracy really enhance the quality of life?
 
 ## Project Overview
 
@@ -17,6 +17,10 @@ This project aims to identify the causes of the wealth gap in Thailand and propo
 9. [Future Work](#future-work)
 10. [Contributing](#contributing)
 11. [License](#license)
+
+## Introduction
+
+Many young people and working-age individuals are advocating for rights, freedoms, and democracy, believing that these will lead to a better society and improved quality of life. We often compare our circumstances to those in countries like the USA, Denmark, the Netherlands, and Switzerland, where people enjoy a high standard of living. Through various media, including films, we've been imbued with democratic values and taught to view non-democratic systems, such as dictatorship and communism, as antagonistic. However, it's important to note that there are developed countries that are not governed by democratic systems, such as China
 
 ## Project Purpose
 I grew up in low income family and in slum area, see many people strunggling to live earn less money to live day by day. It was very hard to imagine how can they live better. This project was created to
